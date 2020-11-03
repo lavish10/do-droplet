@@ -1,0 +1,23 @@
+*.vagrant/
+*.vagrant-*/
+*_TOKEN
+*.log
+# .envrc
+.env
+.envrc-E
+### Vagrant template
+# General
+.vagrant/
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+# *.log
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+.idea/
+*.iml
+out
+gen
